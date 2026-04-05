@@ -1,0 +1,5 @@
+2025-07-20::SJ006::ST002::Mary Wong::Present
+2025-07-20::SJ006::ST004::Armin Man::Present
+2025-07-20::SJ006::ST006::Low Kai Xuan::Absent
+2025-07-21::SJ006::ST002::Mary Wong::Present
+2025-07-21::SJ006::ST006::Low Kai Xuan::Present

@@ -1,0 +1,9 @@
+ST001::9183::Tom Lee::040215-08-5678::tom@gmail.com::012345678899::123MainStreet,KualaLumpur::Form3
+ST002::7562::Mary Wong::040215-08-5678::mary@hotmail.com::0167891234::456JalanAmpang,KL::Form4
+ST003::3847::Ahmad Ali::030520-14-9876::ahmad@yahoo.com::0189876543::789TamanMelati,Selangor::Form5
+ST004::8833::Armin Man::0987654321::armin@gmail.com::5555599999::123PlaneStreet::Form4
+ST005::7135::Franky::060201020097::ooideshen27@gmail.com::0123456789::TamanTeknologi666::Form5
+ST006::5782::Low Kai Xuan::060303010020::kaixuan@gmail.com::0123456789::APUAPUAPU::Form2
+ST007::1234::Ben Frank::0192848484::ben@hotmail.com::0122121908::34FakeStreet::Form2
+ST008::6435::Timothy Willimas::1919610288::tim@email.com::123-648-9193::Mayfair::Form 1
+ST009::8747::ABC::060201020097::ABC@gmail.com::0123456789::APU::Form 4

@@ -1,0 +1,7 @@
+2025-07-20::SJ001::ST003::Ahmad Ali::Present
+2025-07-20::SJ001::ST005::Franky::Absent
+2025-07-20::SJ001::ST007::Ben Frank::Present
+2025-07-21::SJ001::ST003::Ahmad Ali::Present
+2025-07-21::SJ001::ST005::Franky::Present
+2025-07-21::SJ001::ST007::Ben Frank::Present
+2025-07-21::SJ001::ST009::ABC::Absent

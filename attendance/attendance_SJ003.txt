@@ -1,0 +1,7 @@
+2025-07-19::SJ003::ST001::Tom Lee::Present
+2025-07-19::SJ003::ST005::Franky::Present
+2025-07-19::SJ003::ST007::Ben Frank::Present
+2025-07-21::SJ003::ST001::Tom Lee::Present
+2025-07-21::SJ003::ST005::Franky::Present
+2025-07-21::SJ003::ST007::Ben Frank::Present
+2025-07-21::SJ003::ST008::Timothy Willimas::Absent

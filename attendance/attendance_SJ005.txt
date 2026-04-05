@@ -1,0 +1,6 @@
+2025-07-20::SJ005::ST001::Tom Lee::Present
+2025-07-20::SJ005::ST004::Armin Man::Present
+2025-07-20::SJ005::ST005::Franky::Absent
+2025-07-21::SJ005::ST001::Tom Lee::Present
+2025-07-21::SJ005::ST005::Franky::Present
+2025-07-21::SJ005::ST008::Timothy Willimas::Present

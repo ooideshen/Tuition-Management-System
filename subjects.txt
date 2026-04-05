@@ -1,0 +1,3 @@
+TT001:: SJ1001:: Mathematics:: Monday:: 12:00 PM:: 14:00 PM:: 1200
+TT002:: SJ5002:: Science:: Wednesday:: 10:00 AM:: 12:00 PM:: 1200 
+TT003:: SJ2003:: English:: Friday:: 14:00 PM:: 16:00 PM:: 1200 

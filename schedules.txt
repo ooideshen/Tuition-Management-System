@@ -1,0 +1,3 @@
+SCH001::SJ1001::Mathematics::Form 1::TT001::Amanda::Monday::12:00 PM - 14:00 PM::Room A1 
+SCH002::SJ5002::Science::Form 5::TT002::Brandon::Wednesday::10:00 AM - 12:00 PM::Room B3
+SCH003::SJ2003::English::Form 3::TT003::Cait::Friday::14:00 PM - 16:00 PM::Room C2

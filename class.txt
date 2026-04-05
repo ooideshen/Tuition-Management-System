@@ -1,0 +1,15 @@
+TT001::SJ001::Biology::Monday::14:00::16:00::1200.00
+TT001::SJ002::Mathematics::Wednesday::15:00::17:00::1400.00
+TT002::SJ003::Mathematics::Monday::17:00::19:00::1400.00
+TT002::SJ004::Physics::Thursday::16:30::18:30::1300.00
+TT002::SJ005::Chemistry::Friday::14:00::16:00::1200.00
+TT002::SJ006::Additional Mathematics::Wednesday::15:30::17:30::1500.00
+TT003::SJ007::Geography::Wednesday::17:30::19:00::1100.00
+TT003::SJ008::History::Tuesday::15:30::17:00::1100.00
+TT004::SJ009::English::Friday::14:30::16:30::1000.00
+TT004::SJ010::History::Saturday::14:00::16:00::1200.00
+TT005::SJ011::Additional Mathematics::Monday::17:00::19:00::1400.00
+TT005::SJ012::Accounting::Thursday::16:30::18:00::1150.00
+TT006::SJ013::Business::Wednesday::15:30::17:00::1050.00
+TT006::SJ014::Geography::Saturday::14:30::16:30::1300.00
+

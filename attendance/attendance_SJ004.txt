@@ -1,0 +1,7 @@
+2025-07-19::SJ004::ST001::Tom Lee::Present
+2025-07-19::SJ004::ST006::Low Kai Xuan::Present
+2025-07-19::SJ004::ST007::Ben Frank::Absent
+2025-07-21::SJ004::ST001::Tom Lee::Present
+2025-07-21::SJ004::ST006::Low Kai Xuan::Present
+2025-07-21::SJ004::ST007::Ben Frank::Present
+2025-07-21::SJ004::ST009::ABC::Present

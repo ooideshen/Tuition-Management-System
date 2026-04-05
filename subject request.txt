@@ -1,0 +1,4 @@
+REQ002::ST002::Aina Lim::::Drop::Chemistry::Too many subjects::Pending::2025-07-15
+REQ003::ST003::James Wong::::Swap::Drop:History,Add:Geography::Prefers Geography::Pending::2025-07-14
+REQ004::ST001::Ali Ahmad::::Add::Biology::Need to learn more::Pending::2025-07-18
+REQ005::ST001::Tom Lee::::Add::Mathematics::I love math my guy::Pending::2025-07-20
